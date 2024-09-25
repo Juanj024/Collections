@@ -1,7 +1,7 @@
 #Asking for inputs
 studentName = input("Introduce the name of the student  ")
 
-grade = [int(input("first grade")), int(input("second grade")), int(input("third grade")), int(input("fourth grade")), int(input("fifth grade"))]
+grade = [int(input("Introduce first grade ")), int(input("Introduce second grade ")), int(input("Introduce third grade ")), int(input("Introduce fourth grade ")), int(input("Introduce fifth grade "))]
 
 #Creating function
 def letterGrade(grade):
